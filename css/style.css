@@ -1,0 +1,12 @@
+body{background-color:rgb(202, 255, 255);
+color:#000000;
+border-image:black 2px;
+}
+h2{
+color: rgb(25, 10, 165);
+text-align: center;
+}
+h1{
+    text-align: center;
+    color: red; 
+}
